@@ -1,0 +1,49 @@
+#----------------------------------------------------------------
+# License file for Coronary Tools
+# Filename        : 02004C4F4F50.lic
+# Product         : Allura Xper FD 20/20
+# Hospital        : Best Medical Center
+# City            : Best
+# Country         : NL
+# Funlocknbr      : 0000149316
+# Ordernbr        : 0000000001
+# Generation_date : 2024-11-27  9:34:57.27
+# Generated_by    : PCIExpressDevTeam
+#
+#
+#----------------------------------------------------------------
+
+#================================================================
+FEATURE StentBoostLive XRAYCON 1.0 permanent uncounted 2620C4ED474F \
+	HOSTID=02004c4f4f50
+#================================================================
+FEATURE StentBoostPostDeployment XRAYCON 1.0 permanent uncounted \
+	8ED85A5A24E9 HOSTID=02004c4f4f50
+#================================================================
+FEATURE StentBoostSubtract XRAYCON 1.0 permanent uncounted \
+	992A4B051553 HOSTID=02004c4f4f50
+#================================================================
+FEATURE DynamicCoronaryRoadmap XRAYCON 1.0 permanent uncounted \
+	159A0B53B67B HOSTID=02004c4f4f50
+#================================================================
+FEATURE FFRiFRroadmap XRAYCON 1.0 permanent uncounted 20C8F790B9C3 \
+	HOSTID=02004c4f4f50
+#================================================================
+FEATURE LanguagePack XRAYCON 1.0 permanent uncounted 72440841392C \
+	HOSTID=02004c4f4f50
+#================================================================
+FEATURE Label_DynCorRoadmapCE XRAYCON 1.0 permanent uncounted \
+	0BCCD1427B1A HOSTID=02004c4f4f50
+#================================================================
+FEATURE Label_DynCorRoadmapUKCA XRAYCON 1.0 permanent uncounted \
+	492CA59B6415 HOSTID=02004c4f4f50
+#================================================================
+FEATURE Label_StentBoostLiveCE XRAYCON 1.0 permanent uncounted \
+	7FC3F5CC50DA HOSTID=02004c4f4f50
+#================================================================
+FEATURE Label_StentBoostLiveUKCA XRAYCON 1.0 permanent uncounted \
+	BCEB532C0451 HOSTID=02004c4f4f50
+#================================================================
+FEATURE NoEncryptDrives XRAYCON 1.0 permanent uncounted CD9DE0586690 \
+	HOSTID=02004c4f4f50
+#================================================================

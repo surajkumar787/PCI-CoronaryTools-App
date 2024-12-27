@@ -1,0 +1,22 @@
+LIBRARY PrmLib.1.4.dll
+VERSION 1.4
+
+EXPORTS
+	PrmCreate
+	PrmDelete
+	PrmGetVersionInfo
+	PrmGetVersionNumbers
+	PrmGetPara
+	PrmGetDefaultPara
+	PrmGetParaContext
+	PrmSetParaToDefault
+	PrmSetPara
+	PrmHasAnyTaggedParaChanged
+	PrmPrintParaWithContext
+	PrmPrintParaCurVal
+	PrmSetCtxStr
+	PrmSetCtxInt
+	PrmSetCtxFlt
+	PrmSetCtxIVc
+	PrmSetCtxFVc
+

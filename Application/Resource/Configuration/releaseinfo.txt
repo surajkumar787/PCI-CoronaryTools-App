@@ -1,0 +1,7 @@
+[General]
+Release=2
+Version=1
+Level=0
+Build=PCIBUILD
+Date=PCIDATE
+
